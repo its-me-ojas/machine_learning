@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9daf505a-10a5-41e7-bf36-a2265b5d11be" name="Changes" comment="Random Forest Regression">
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/decision_tree_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/multiple_linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/polynomial_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/random_forest_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression/Regression Code Template/support_vector_regression.ipynb" afterDir="false" />
+    <list default="true" id="9daf505a-10a5-41e7-bf36-a2265b5d11be" name="Changes" comment="Regression Code Templates">
+      <change afterPath="$PROJECT_DIR$/Classification/KNN /main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Logistic Regression/logistic_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Logistic Regression/logistic_regression1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/breast_cancer.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regression/Regression Code Template/support_vector_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regression/Regression Code Template/support_vector_regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -55,6 +55,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;SettingsForm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,7 +82,11 @@
       <updated>1719572983969</updated>
       <workItem from="1719572985396" duration="1753000" />
       <workItem from="1721033222785" duration="5479000" />
-      <workItem from="1721042663771" duration="731000" />
+      <workItem from="1721042663771" duration="1534000" />
+      <workItem from="1721098234138" duration="2256000" />
+      <workItem from="1721212876221" duration="159000" />
+      <workItem from="1721213048051" duration="183000" />
+      <workItem from="1722212491643" duration="6759000" />
     </task>
     <task id="LOCAL-00001" summary="support vector regression">
       <option name="closed" value="true" />
@@ -107,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721038837890</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Regression Code Templates">
+      <option name="closed" value="true" />
+      <created>1721043533320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721043533320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +131,8 @@
     <MESSAGE value="support vector regression" />
     <MESSAGE value="Decision Tree Regression" />
     <MESSAGE value="Random Forest Regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random Forest Regression" />
+    <MESSAGE value="Regression Code Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regression Code Templates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machine_learning$multiple_linear_regression.coverage" NAME="multiple_linear_regression Coverage Results" MODIFIED="1719574620543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regression/Multiple Linear Regression" />
