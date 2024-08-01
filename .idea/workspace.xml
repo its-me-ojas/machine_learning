@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daf505a-10a5-41e7-bf36-a2265b5d11be" name="Changes" comment="KNN Regression">
+      <change afterPath="$PROJECT_DIR$/Classification/Support Vector Machines (SVM)/support_vector_machine.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,8 @@
       <workItem from="1721098234138" duration="2256000" />
       <workItem from="1721212876221" duration="159000" />
       <workItem from="1721213048051" duration="183000" />
-      <workItem from="1722212491643" duration="7760000" />
+      <workItem from="1722212491643" duration="7950000" />
+      <workItem from="1722481689383" duration="2377000" />
     </task>
     <task id="LOCAL-00001" summary="support vector regression">
       <option name="closed" value="true" />
@@ -138,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722219621484</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="KNN Regression">
+      <option name="closed" value="true" />
+      <created>1722220497193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220497193</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
